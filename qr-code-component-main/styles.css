@@ -1,0 +1,41 @@
+.outfit-uniquifier {
+  margin-top: 15px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 750;
+  font-style: normal;
+  font-size: 18px;
+  text-align: center;
+}
+
+.outfit-uniquifier2 {
+  margin-top: 10px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: 0.5;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+}
+
+.container {
+  border: hidden 0.5px;
+  border-radius: 20px;
+  box-shadow: 10px 10px  rgb(195, 208, 221);
+  padding: 1em;
+  max-width: 14%;
+  display: flex;
+  margin: auto;
+  margin-top:15%;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.qr-image {
+  height: 15em;
+}
+
+body {
+  background-color: rgb(195, 208, 221);
+}
